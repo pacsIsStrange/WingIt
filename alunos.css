@@ -86,6 +86,7 @@ body {
     flex-flow: column nowrap;
 }
 .dadospedro{
+    font-weight: bold;
     font-family: "Calibri Light";
     font-size: 1.5vw;
     margin-inline: 15px;
@@ -136,6 +137,7 @@ body {
 }
 
 .dadoslaura{
+    font-weight: bold;
     font-family: "Calibri Light";
     font-size: 1.5vw;
     margin-inline: 15px;

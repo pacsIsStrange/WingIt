@@ -75,7 +75,7 @@ a{
 }
 .texto{
     font-family: "Calibri";
-    font-size: 19pt;
+    font-size: 1.63vw;
     font-weight: normal;
     color: black;
     width: 55vw;
@@ -86,6 +86,7 @@ a{
     display:flex;
     text-align: center;
     justify-content: center;
+    align-items: center;
 }
 .fundotexto{
     display: flex;

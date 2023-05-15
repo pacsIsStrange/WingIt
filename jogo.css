@@ -72,7 +72,7 @@ a{
 }
 #tutorial{
     font-family: Righteous;
-    font-size: 25pt;
+    font-size: 11pt;
     color: indigo;
 }
 #jogo{
@@ -82,4 +82,29 @@ a{
     justify-content: center;
     align-items: center;
     flex-flow: column nowrap;
+}
+#botIniciar{
+    position: absolute;
+    top: 45vh;
+    left: 5vw;
+}
+.botIniciar {
+    background-color:#d3abed;
+    border-radius:28px;
+    border:1px solid #7f6ac4;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:17px;
+    padding:16px 31px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #a382bf;
+}
+.botIniciar:hover {
+    background-color:#8181eb;
+}
+.botIniciar:active {
+    position:relative;
+    top:1px;
 }
